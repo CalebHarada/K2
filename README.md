@@ -1,2 +1,3 @@
 # K2
-Stuff for K2 transit modeling
+Use MCMC to fit BATMAN transit models to K2/Spitzer observations
+
