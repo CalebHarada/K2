@@ -1,5 +1,6 @@
-# v2 -- Impact parameter; Gaussian priors on a, p, rp
-# v3 -- binning, TDB correction deprecated
+# v2 -- impact parameter; Gaussian priors on a, p, rp
+# v3 -- binning, timing, TDB correction deprecated, save results,
+#		resolved issue of sigma > 1, naming scheme
 
 
 import numpy as np
